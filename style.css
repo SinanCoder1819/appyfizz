@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.header{
+    background-color: black;
+    height: 90px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.links:hover{
+    color: red;
+}
+.links{
+    padding-left: 30px;
+}
+
+.header-right a{
+    margin-top: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.header a{
+    list-style: none;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+
+.banner img{
+    width: 100%;
+}
+
+.third-left-section{
+    background-color: black;
+    height: 800px;
+    width: 50%;
+    margin-top: -4px;
+    float: left;
+}
+
+.text{
+    font: bold;
+    padding-left: 200px;
+    padding-top: 402px;
+    font-size: 50px;
+}
+.slider{
+    margin-top: -388px;
+    font-size: 30px;
+}
+
+.text h1{
+  margin-top: -525px;
+  padding-left: -18px;
+  margin-left: -43px;
+  color: white;
+}
+
+.third-right-section{
+    float: left;
+}
+.third-right-section{
+    font-family: merivaregular;
+  font-size: 24px;
+  line-height: 1.2;
+  margin-top: 150px;
+  padding-left: 120px;
+}
+
+.small-logos{
+    padding-top: 20px;
+}
+
+.last-image img{
+    width: 100%;
+}
+
+.footer{
+    height: 168px;
+}
+
+.first-div{
+    float: left;
+    padding-top: 30px;
+}
+
+.second-div{
+    float: left;
+  padding-left: 120px;
+  padding-top: 30px;
+}
+.link:hover{
+    color: red;
+}
+
+.third-div{
+    padding-left: 150px;
+    float: left;
+    padding-top: 30px;
+}
